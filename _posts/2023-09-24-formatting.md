@@ -1,8 +1,0 @@
----
-layout: post
-title: Your research. Advice to researchers by R W Hamming
-date: 2023-09-24 00:00:00
-description: The most important part of research is attacking an attackable research problem worth attacking. Most people know it, and yet most of us ignore it. I like the lecture "You and your research' by Prof. Hamming that talks about it.  You may find the complete lecture video on YouTube and a concise text version at the link above.
-redirect: https://people.math.osu.edu/costin.10/603/YouAndYourResearch.pdf
----
-redirecting to osu website. 
