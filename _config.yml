@@ -46,11 +46,11 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: #arunkmaar
+github_username: #
 gitlab_username: # your GitLab user name
 x_username: # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: # your LinkedIn user name
+linkedin_username: arun-kumar-84154a65
 telegram_username: # your Telegram user name
 scholar_userid:  QejjcCMAAAAJ&hl
 semanticscholar_id: # your Semantic Scholar ID
@@ -101,7 +101,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: Stack # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: Bits and bytes of our work.
+blog_description: My bit-size blog
 permalink: /blog/:year/:title/
 
 # Pagination
