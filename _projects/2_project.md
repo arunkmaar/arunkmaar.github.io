@@ -11,8 +11,9 @@ On decreasing the separation between the ends of a sandwiched ribbon, depending 
 </div>
 
 <div style="text-align: justify">
-We are writing a manuscript presenting an asymptotically derived one-dimensional ribbon model to explain the single and multiple perversions phenomenon and its reason. Once we submit the manuscript, to facilitate the reproducibility of model derivation and numerical results, you will find the Mathematica code explaining the derivation and Auto-7p code implementing the model here.
-</div>
+We published a [paper in JMPS](https://doi.org/10.1016/j.jmps.2024.106005) presenting an asymptotically derived one-dimensional ribbon model to explain the single and multiple perversions phenomenon and its reason.
+
+To facilitate the reproducibility of model derivation and numerical results, we have made the derivation and Auto-7p code implementing the model available at [this link](https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://github.com/arunkmaar/PrestrainedRibbons2024Paper). </div>
 
 <p align="center">
 <div class="row">
