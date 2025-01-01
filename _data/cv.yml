@@ -13,10 +13,17 @@
   contents:
     - title: Marie Skłodowska-Curie Actions (Europostdoc2) Postdoctoral Fellow 
       institution: Ecole Polytechnique, Paris
-      year: Feb 2022 -
+      year: February 2022 - April 2024
       description:
         - <strong>Research focus&#58;</strong> Models for predicting instabilities in thin structures. 
         - <strong>Advisors&#58;</strong> Prof. Basile Audoly (LMS, L'X), Prof. Pedro Reis (EPFL)
+
+    - title: Research Engineer
+      institution: INRIA, Grenoble
+      year: Current
+      description:
+        - <strong>Research focus&#58;</strong> Mechanics of wising and tangling of hairs
+        - <strong>Advisors&#58;</strong> Dr. Florence Descoubes, Dr. Victor Romero
       
 - title: Education
   type: time_table
@@ -40,4 +47,4 @@
 - title: When free, I like to 
   type: list
   contents:
-    -  run, hike, swim, dance salsa, and travel.
+    -  run, hike, swim, dance salsa and tango, and travel.

@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2022-01-26 09:00:00-0400
+date: 2022-07-27 09:00:00-0400
 inline: true
 related_posts: false
 ---
 
-Started working in Prof. Basile Audoly's group at Ecole Polytechnique, Paris. 
+Presented a poster at TU Eindhoven.

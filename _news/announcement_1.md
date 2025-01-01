@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-02-13 09:00:00-0400
+date: 2025-01-01 09:00:00-000
 inline: true
 related_posts: false
 ---
 
-Our paper presenting an asymptotic derivation of a model for tape springs is published in Philosophical Transactions of the Royal Society A.
+Our paper exploring the short- and long-wavelength buckling in prestained ribbons is accepted in the Journal of the Mechanics and Physics of Solids. It is open access under CC4 and is available at <a href='https://doi.org/10.1016/j.jmps.2024.106005'>https://doi.org/10.1016/j.jmps.2024.106005</a>. 
