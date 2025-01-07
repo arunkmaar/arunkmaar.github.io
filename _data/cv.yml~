@@ -1,0 +1,50 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Arun Kumar
+    - name: Date of Birth
+      value: 21st March 1992
+    - name: Languages
+      value: English, Hindi
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Marie Skłodowska-Curie Actions (Europostdoc2) Postdoctoral Fellow 
+      institution: Ecole Polytechnique, Paris
+      year: February 2022 - April 2024
+      description:
+        - <strong>Research focus&#58;</strong> Models for predicting instabilities in thin structures. 
+        - <strong>Advisors&#58;</strong> Prof. Basile Audoly (LMS, L'X), Prof. Pedro Reis (EPFL)
+
+    - title: Research Engineer
+      institution: INRIA, Grenoble
+      year: Current
+      description:
+        - <strong>Research focus&#58;</strong> Mechanics of wising and tangling of hairs
+        - <strong>Advisors&#58;</strong> Dr. Florence Descoubes, Dr. Victor Romero
+      
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D in Mechanical Engineering 
+      institution: Indian Institute of Science, Bangalore
+      year: 2016 - 2022
+      description:
+        - <strong>Research focus&#58;</strong> Elastic ribbons
+        - <strong>Advisor&#58;</strong> Prof. Ramsharan Rangarajan
+    - title: M.Tech in Machine Design 
+      institution: National Institute of Technology, Calicut, India
+      year: 2014-2016
+      description:
+        - <strong>Project&#58;</strong> Frequency response of base-excited cantilever in fluid medium
+        - <strong>Advisor&#58;</strong> Prof. U B Jayadeep	
+    - title: B.Tech in Mechanical Engineering
+      institution: Jawaharlal Nehru Engineering College, Himachal Pradesh, India
+      year: 2010-2014
+
+- title: When free, I like to 
+  type: list
+  contents:
+    -  run, hike, swim, dance salsa and tango, and travel.
