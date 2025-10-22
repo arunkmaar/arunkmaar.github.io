@@ -10,7 +10,7 @@ profile:
  image: prof_pic.jpg
  image_cicular: false # crops the image to make it circular
  more_info: >
-   <p> in France nowadays </p>
+   <p>  In France nowadays </p>
 
 
 news: true  # includes a list of news items
